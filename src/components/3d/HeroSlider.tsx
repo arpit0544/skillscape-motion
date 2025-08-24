@@ -69,7 +69,7 @@ const AnimatedBox = ({ isActive }: { isActive: boolean }) => {
         emissive="#2563eb" 
         emissiveIntensity={0.2}
         roughness={0.2}
-        metalness={0.8
+        metalness={0.8}
       />
     </Box>
   );
